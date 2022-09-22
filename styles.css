@@ -110,7 +110,7 @@ footer {
     padding: 80px;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 420px) {
 
     header {
      font-size: 12px;
