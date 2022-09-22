@@ -159,8 +159,13 @@ footer {
     }
  
     h3 {
-     font-size: 20px;
+     font-size: 24px;
      width: 100%;
+    }
+
+    p {
+        font-size: 24px;
+        width: 100%;
     }
  
     .container {
@@ -175,7 +180,8 @@ footer {
     }
 
     .card {
-     width: 520px;
+     width: 100%;
+     max-width: 20rem;
      margin-bottom: 24px;
      display: flex;
      flex-direction: column;
@@ -183,7 +189,7 @@ footer {
  
     .product-image {
      height: 450px;
-     width: 450px;
+     width: 100%;
      margin-bottom: 10px;
      background-position: bottom;
      background-size: cover;   
